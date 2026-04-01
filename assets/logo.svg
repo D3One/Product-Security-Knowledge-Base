@@ -1,0 +1,22 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="640" y2="640">
+    <stop stop-color="#05080F"/>
+    <stop offset="1" stop-color="#0B1522"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="120" y1="100" x2="520" y2="540">
+    <stop stop-color="#7EE7FF"/>
+    <stop offset="1" stop-color="#36F3A2"/>
+  </linearGradient>
+</defs>
+<rect width="640" height="640" rx="72" fill="url(#bg)"/>
+<g opacity="0.18" stroke="#214055">
+  <path d="M0 120H640"/><path d="M0 200H640"/><path d="M0 280H640"/><path d="M0 360H640"/><path d="M0 440H640"/><path d="M0 520H640"/>
+  <path d="M120 0V640"/><path d="M200 0V640"/><path d="M280 0V640"/><path d="M360 0V640"/><path d="M440 0V640"/><path d="M520 0V640"/>
+</g>
+<path d="M208 114H432L518 200V388L320 526L122 388V200L208 114Z" stroke="url(#accent)" stroke-width="10"/>
+<path d="M223 143H417L489 215V373L320 492L151 373V215L223 143Z" stroke="#7EE7FF" stroke-opacity="0.55" stroke-width="4"/>
+<path d="M236 264C236 211.89 278.89 169 331 169H398V231H341C323.327 231 309 245.327 309 263V271C309 288.673 323.327 303 341 303H387V365H329C277.085 365 235 322.915 235 271L236 264Z" fill="#E8FBFF"/>
+<path d="M272 418V356H357C374.673 356 389 341.673 389 324V316C389 298.327 374.673 284 357 284H318V222H370C421.915 222 464 264.085 464 316V324C464 376.11 421.11 419 369 419L272 418Z" fill="url(#accent)"/>
+<text x="320" y="585" text-anchor="middle" fill="#A8BAC8" font-family="Arial, Helvetica, sans-serif" font-size="34" letter-spacing="8">PRODUCT SECURITY KB</text>
+</svg>

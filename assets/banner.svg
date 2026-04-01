@@ -1,0 +1,66 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05080F"/>
+      <stop offset="0.55" stop-color="#0A1220"/>
+      <stop offset="1" stop-color="#06101A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7EE7FF"/>
+      <stop offset="1" stop-color="#36F3A2"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="7" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="520" fill="url(#bg)"/>
+  <g opacity="0.15" stroke="url(#line)">
+    <path d="M0 74H1600"/>
+    <path d="M0 134H1600"/>
+    <path d="M0 194H1600"/>
+    <path d="M0 254H1600"/>
+    <path d="M0 314H1600"/>
+    <path d="M0 374H1600"/>
+    <path d="M0 434H1600"/>
+    <path d="M160 0V520"/>
+    <path d="M360 0V520"/>
+    <path d="M560 0V520"/>
+    <path d="M760 0V520"/>
+    <path d="M960 0V520"/>
+    <path d="M1160 0V520"/>
+    <path d="M1360 0V520"/>
+  </g>
+  <g opacity="0.85">
+    <path d="M134 103L228 103L274 149L274 243L228 289L134 289L88 243L88 149L134 103Z" stroke="url(#line)" stroke-width="4"/>
+    <path d="M134 133L217 133L244 160L244 232L217 259L134 259L107 232L107 160L134 133Z" stroke="#7EE7FF" stroke-opacity="0.6" stroke-width="2"/>
+    <text x="181" y="205" text-anchor="middle" fill="#E7FCFF" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">PS</text>
+  </g>
+  <g filter="url(#glow)">
+    <text x="340" y="185" fill="#DDF7FF" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700" letter-spacing="5">PRODUCT SECURITY</text>
+    <text x="340" y="260" fill="#7EE7FF" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700" letter-spacing="5">KNOWLEDGE BASE</text>
+  </g>
+  <text x="342" y="320" fill="#A6B8C6" font-family="Arial, Helvetica, sans-serif" font-size="26" letter-spacing="1.5">PROMO REPOSITORY • ALPHA / PRE-RELEASE • CURATED BY IVAN PISKUNOV</text>
+  <rect x="340" y="354" width="890" height="2" fill="url(#line)" opacity="0.9"/>
+  <text x="340" y="404" fill="#C6D2DD" font-family="Arial, Helvetica, sans-serif" font-size="24">Curated Product Security reference system • AppSec • DevSecOps • API Security • Cloud Security</text>
+  <text x="340" y="442" fill="#7A8DA0" font-family="Arial, Helvetica, sans-serif" font-size="19">Engineering signal. Cleaner navigation. Better structure. Real-world security patterns.</text>
+  <g opacity="0.65">
+    <path d="M1220 126L1500 126" stroke="#36F3A2" stroke-width="2"/>
+    <path d="M1220 152L1435 152" stroke="#7EE7FF" stroke-width="2"/>
+    <path d="M1220 178L1480 178" stroke="#36F3A2" stroke-width="2"/>
+    <path d="M1220 204L1400 204" stroke="#7EE7FF" stroke-width="2"/>
+    <path d="M1220 230L1510 230" stroke="#36F3A2" stroke-width="2"/>
+    <path d="M1220 256L1454 256" stroke="#7EE7FF" stroke-width="2"/>
+    <path d="M1220 282L1500 282" stroke="#36F3A2" stroke-width="2"/>
+    <circle cx="1188" cy="126" r="6" fill="#36F3A2"/>
+    <circle cx="1188" cy="152" r="6" fill="#7EE7FF"/>
+    <circle cx="1188" cy="178" r="6" fill="#36F3A2"/>
+    <circle cx="1188" cy="204" r="6" fill="#7EE7FF"/>
+    <circle cx="1188" cy="230" r="6" fill="#36F3A2"/>
+    <circle cx="1188" cy="256" r="6" fill="#7EE7FF"/>
+    <circle cx="1188" cy="282" r="6" fill="#36F3A2"/>
+  </g>
+</svg>

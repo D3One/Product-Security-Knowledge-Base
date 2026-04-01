@@ -1,0 +1,29 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="640">
+    <stop stop-color="#05080F"/>
+    <stop offset="1" stop-color="#0C1624"/>
+  </linearGradient>
+  <linearGradient id="acc" x1="180" y1="120" x2="1000" y2="500">
+    <stop stop-color="#7EE7FF"/>
+    <stop offset="1" stop-color="#36F3A2"/>
+  </linearGradient>
+</defs>
+<rect width="1280" height="640" fill="url(#bg)"/>
+<g opacity="0.18" stroke="#223748">
+  <path d="M0 80H1280"/><path d="M0 160H1280"/><path d="M0 240H1280"/><path d="M0 320H1280"/><path d="M0 400H1280"/><path d="M0 480H1280"/><path d="M0 560H1280"/>
+  <path d="M160 0V640"/><path d="M320 0V640"/><path d="M480 0V640"/><path d="M640 0V640"/><path d="M800 0V640"/><path d="M960 0V640"/><path d="M1120 0V640"/>
+</g>
+<path d="M160 146H560" stroke="url(#acc)" stroke-width="5"/>
+<circle cx="594" cy="146" r="12" fill="#36F3A2"/>
+<text x="160" y="240" fill="#EAFBFF" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="3">PRODUCT SECURITY</text>
+<text x="160" y="318" fill="#7EE7FF" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="3">KNOWLEDGE BASE</text>
+<text x="160" y="380" fill="#A8BACA" font-family="Arial, Helvetica, sans-serif" font-size="28">Curated reference system for modern software security</text>
+<text x="160" y="430" fill="#C3D0DA" font-family="Arial, Helvetica, sans-serif" font-size="28">Product Security • AppSec • DevSecOps • API Security • Cloud Security</text>
+<rect x="160" y="470" width="612" height="2" fill="url(#acc)"/>
+<text x="160" y="520" fill="#7B90A2" font-family="Arial, Helvetica, sans-serif" font-size="22">Created and curated by Ivan Piskunov</text>
+<path d="M874 135H1042L1120 213V356L960 470L800 356V213L874 135Z" stroke="url(#acc)" stroke-width="8"/>
+<path d="M888 160H1028L1090 222V347L960 440L830 347V222L888 160Z" stroke="#7EE7FF" stroke-opacity="0.55" stroke-width="3"/>
+<path d="M886 280C886 239.131 919.131 206 960 206H1002V258H966C951.641 258 940 269.641 940 284V288C940 302.359 951.641 314 966 314H994V366H958C918.235 366 886 333.765 886 294V280Z" fill="#F0FCFF"/>
+<path d="M912 393V341H988C1002.36 341 1014 329.359 1014 315V311C1014 296.641 1002.36 285 988 285H955V233H998C1038.87 233 1072 266.131 1072 307V311C1072 351.869 1038.87 385 998 385L912 393Z" fill="url(#acc)"/>
+</svg>

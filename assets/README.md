@@ -1,0 +1,1 @@
+This folder contains custom SVG assets prepared for the Product Security Knowledge Base promo repository pack.

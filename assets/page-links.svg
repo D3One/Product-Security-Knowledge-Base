@@ -1,0 +1,24 @@
+<svg width="1600" height="320" viewBox="0 0 1600 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="320">
+    <stop stop-color="#04070D"/>
+    <stop offset="1" stop-color="#0C1624"/>
+  </linearGradient>
+  <linearGradient id="acc" x1="0" y1="0" x2="1600" y2="320">
+    <stop stop-color="#7EE7FF"/>
+    <stop offset="1" stop-color="#36F3A2"/>
+  </linearGradient>
+</defs>
+<rect width="1600" height="320" fill="url(#bg)"/>
+<g opacity="0.22" stroke="#203243">
+  <path d="M0 64H1600"/><path d="M0 128H1600"/><path d="M0 192H1600"/><path d="M0 256H1600"/>
+  <path d="M120 0V320"/><path d="M280 0V320"/><path d="M440 0V320"/><path d="M600 0V320"/>
+  <path d="M760 0V320"/><path d="M920 0V320"/><path d="M1080 0V320"/><path d="M1240 0V320"/><path d="M1400 0V320"/>
+</g>
+<path d="M96 96H516" stroke="url(#acc)" stroke-width="4"/>
+<path d="M96 224H756" stroke="#7EE7FF" stroke-width="2"/>
+<circle cx="560" cy="96" r="10" fill="#36F3A2"/>
+<rect x="786" y="214" width="20" height="20" stroke="#36F3A2" stroke-width="3"/>
+<text x="96" y="155" fill="#E8FBFF" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="3">LINKS</text>
+<text x="96" y="196" fill="#97A9BA" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="1.5">Curated public hub for repositories, writing, profiles, and the beta form</text>
+</svg>
