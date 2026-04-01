@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/page-links.svg" alt="Links banner" width="100%" />
+  <img src="../assets/page-links.png" alt="Links banner" width="100%" />
 </p>
 
 # Links
@@ -34,9 +34,15 @@
 
 - SlimWiki: <https://slimwiki.com/ivanpiskunov/ivanpiskunov/ivan-piskunov-28m8m4x2c7-4fbedzamepy7>
 
-## Beta program
+## Community and collaboration
 
 - Beta intake form: <https://forms.gle/GXSK8aDogTQ46Kgv6>
+- Contributors and co-authors page: [Contributors and Co-Authors](CONTRIBUTORS-AND-COAUTHORS.md)
+- Repo description snippets: [REPO-DESCRIPTION.md](REPO-DESCRIPTION.md)
+
+<p align="center">
+  <img src="../assets/footer-mark.png" alt="footer mark" width="320" />
+</p>
 
 ---
 

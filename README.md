@@ -7,12 +7,17 @@
   <a href="docs/ORIGINS-AND-TIMELINE.md"><img alt="Status" src="https://img.shields.io/badge/status-alpha%20%2F%20pre--release-0b1320?style=for-the-badge&logo=gitbook&logoColor=7ee7ff"></a>
   <a href="https://ivan-piskunov-or-cybersecurity.gitbook.io/product-security/t9N8rJShNrBINAUnDiHq"><img alt="GitBook" src="https://img.shields.io/badge/live-GitBook%20alpha-0b1320?style=for-the-badge&logo=gitbook&logoColor=7ee7ff"></a>
   <a href="docs/BETA-PROGRAM.md"><img alt="Beta Program" src="https://img.shields.io/badge/beta-feedback%20group-0b1320?style=for-the-badge&logo=googleforms&logoColor=7ee7ff"></a>
+  <a href="docs/CONTRIBUTORS-AND-COAUTHORS.md"><img alt="Contributors" src="https://img.shields.io/badge/contributors-ideas%20welcome-0b1320?style=for-the-badge&logo=opensourceinitiative&logoColor=7ee7ff"></a>
 </p>
 
 <p align="center">
   <a href="docs/DOMAIN-MAP.md"><img alt="Coverage" src="https://img.shields.io/badge/coverage-ProdSec%20%7C%20AppSec%20%7C%20DevSecOps%20%7C%20CloudSec-101827?style=flat-square"></a>
   <a href="docs/PRIOR-WORKS.md"><img alt="Roots" src="https://img.shields.io/badge/roots-articles%20%E2%86%92%20books%20%E2%86%92%20community%20%E2%86%92%20KB-101827?style=flat-square"></a>
   <a href="docs/LINKS.md"><img alt="Links" src="https://img.shields.io/badge/public%20links-curated%20hub-101827?style=flat-square"></a>
+</p>
+
+<p align="center">
+  <img src="assets/logo.png" alt="Product Security Knowledge Base logo" width="128" />
 </p>
 
 ---
@@ -26,7 +31,7 @@ It is being built as a structured, long-horizon body of work across **Product Se
 This repository is the **presentation layer** of the project: a premium GitHub-facing overview that explains the mission, the author, the roots of the work, and the evolution from early articles and books into a broader Product Security knowledge system.
 
 <p align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
+  <img src="assets/divider.png" alt="divider" width="100%" />
 </p>
 
 ## Why this exists
@@ -44,29 +49,25 @@ The goal is to build a **clear, usable, high-signal reference library** that hel
 This project is intentionally designed around **systematization, clarity, practical value, and defensive engineering discipline**.
 
 <p align="center">
-  <img src="assets/grid-divider.svg" alt="grid divider" width="100%" />
+  <img src="assets/grid-divider.png" alt="grid divider" width="100%" />
 </p>
 
 ## About the author
 
-**Ivan Piskunov** is a cybersecurity specialist and Product Security practitioner with a background spanning **fintech-oriented software environments, AppSec, DevSecOps, Cloud Security, Security Champion work, and later Product Security leadership positioning**.
+**Ivan Piskunov** is a cybersecurity practitioner with more than **7 years of consistent Product Security–oriented work**, spanning **fintech software environments, AppSec, DevSecOps, Security Champion responsibilities, platform and cloud security, and later Product Security leadership positioning**.
 
-For **more than 7 years**, he has been consistently building around Product Security and adjacent domains — first through technical articles, then books and structured notes, then community education, and now through a full Product Security knowledge platform.
+The narrative behind this Knowledge Base is intentional: **articles → book / brochure work → community publishing → dedicated Product Security channels → structured Product Security Knowledge Base**.
 
-His work is centered on:
+He is also one of the lecturers connected to **DevOps School in Moscow**, where he taught a security-focused part of the program.
 
-- turning fragmented security knowledge into structured systems;
-- translating hard technical material into usable engineering guidance;
-- mentoring younger engineers on practical skills and industry navigation;
-- helping practitioners sharpen hard skills and move toward stronger roles and offers;
-- positioning modern Product Security as both a technical and business-enabling function.
+A core part of the mission is contribution back to the industry: **systematizing knowledge, sharing practical guidance, mentoring younger engineers, helping people grow hard skills, and helping strong practitioners position themselves for better offers**.
 
-He positions himself toward **Product Security Director / VP-level scope**, with a strong emphasis on execution, architecture, enablement, and long-term program design.
+He positions himself toward **Product Security Director / VP-level scope** with a strong focus on architecture, enablement, execution, and long-term program design.
 
 ➡️ Read more: [About the Author](docs/ABOUT-THE-AUTHOR.md)
 
 <p align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
+  <img src="assets/divider.png" alt="divider" width="100%" />
 </p>
 
 ## From articles to a knowledge system
@@ -88,7 +89,7 @@ That progression matters because the project is rooted in real publishing, engin
 ➡️ Browse the source trail: [Prior Works](docs/PRIOR-WORKS.md)
 
 <p align="center">
-  <img src="assets/grid-divider.svg" alt="grid divider" width="100%" />
+  <img src="assets/grid-divider.png" alt="grid divider" width="100%" />
 </p>
 
 ## Coverage map
@@ -111,7 +112,7 @@ The alpha structure of the Knowledge Base already points to a wide Product Secur
 ➡️ Explore more: [Domain Map](docs/DOMAIN-MAP.md)
 
 <p align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
+  <img src="assets/divider.png" alt="divider" width="100%" />
 </p>
 
 ## Beta readers and early feedback loop
@@ -125,7 +126,19 @@ This makes the project more useful, more honest, and closer to what real enginee
 ➡️ Details: [Beta Program](docs/BETA-PROGRAM.md)
 
 <p align="center">
-  <img src="assets/grid-divider.svg" alt="grid divider" width="100%" />
+  <img src="assets/grid-divider.png" alt="grid divider" width="100%" />
+</p>
+
+## Suggestions, contributors, and co-authors
+
+This project is intentionally open to **strong improvement ideas**.
+
+Readers can propose structure changes, topic additions, missing examples, navigation improvements, and editorial suggestions. As collaboration grows, selected contributors and future authors can be publicly recognized as **contributors / co-authors** inside the project.
+
+➡️ Collaboration page: [Contributors and Co-Authors](docs/CONTRIBUTORS-AND-COAUTHORS.md)
+
+<p align="center">
+  <img src="assets/divider.png" alt="divider" width="100%" />
 </p>
 
 ## Navigation
@@ -137,9 +150,11 @@ This makes the project more useful, more honest, and closer to what real enginee
 - [Prior Works and Public Trail](docs/PRIOR-WORKS.md)
 - [Domain Map](docs/DOMAIN-MAP.md)
 - [Beta Program](docs/BETA-PROGRAM.md)
+- [Contributors and Co-Authors](docs/CONTRIBUTORS-AND-COAUTHORS.md)
 - [Roadmap](docs/ROADMAP.md)
 - [FAQ](docs/FAQ.md)
 - [Links](docs/LINKS.md)
+- [Repo Description Snippets](docs/REPO-DESCRIPTION.md)
 
 ### Project files
 
@@ -149,7 +164,7 @@ This makes the project more useful, more honest, and closer to what real enginee
 - [License](LICENSE.md)
 
 <p align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
+  <img src="assets/grid-divider.png" alt="grid divider" width="100%" />
 </p>
 
 ## Public roots of this project
@@ -167,7 +182,7 @@ Some of the public works that fed into this Knowledge Base include:
 ➡️ Full reference map: [Prior Works](docs/PRIOR-WORKS.md)
 
 <p align="center">
-  <img src="assets/grid-divider.svg" alt="grid divider" width="100%" />
+  <img src="assets/grid-divider.png" alt="grid divider" width="100%" />
 </p>
 
 ## Design notes
@@ -182,6 +197,10 @@ This repository is intentionally styled as a **clean, premium, hacker-adjacent G
 
 The actual Knowledge Base remains the deeper system.  
 This repository is the **front door**.
+
+<p align="center">
+  <img src="assets/footer-mark.png" alt="footer mark" width="340" />
+</p>
 
 ---
 

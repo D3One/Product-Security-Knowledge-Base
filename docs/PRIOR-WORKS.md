@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/page-prior.svg" alt="Prior Works banner" width="100%" />
+  <img src="../assets/page-prior.png" alt="Prior Works banner" width="100%" />
 </p>
 
 # Prior Works and Public Trail
@@ -58,6 +58,7 @@ This page maps the public works that helped shape the Knowledge Base before it b
 |---|---|
 | [White2Hack Telegram ecosystem](https://github.com/D3One/White2Hack) | broad cybersecurity publishing and community lane |
 | CyberSecBastion | Product Security–oriented focused side lane in the broader ecosystem |
+| DevOps School Moscow | educational contribution where Ivan taught a security-focused part of the program |
 | GitBook alpha readers | early structured audience for the KB format |
 | Beta reader group | pre-release quality feedback loop |
 
@@ -77,8 +78,13 @@ It is built on:
 ## Related pages
 
 - [Origins and Timeline](ORIGINS-AND-TIMELINE.md)
+- [Contributors and Co-Authors](CONTRIBUTORS-AND-COAUTHORS.md)
 - [Beta Program](BETA-PROGRAM.md)
 - [Links](LINKS.md)
+
+<p align="center">
+  <img src="../assets/footer-mark.png" alt="footer mark" width="320" />
+</p>
 
 ---
 

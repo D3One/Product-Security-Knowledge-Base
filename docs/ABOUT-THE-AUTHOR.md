@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/page-about.svg" alt="About the Author banner" width="100%" />
+  <img src="../assets/page-about.png" alt="About the Author banner" width="100%" />
 </p>
 
 # About the Author
@@ -7,6 +7,10 @@
 Ivan Piskunov is a cybersecurity practitioner focused on **Product Security, AppSec, DevSecOps, Cloud Security, Secure SDLC, and leadership-oriented security operating models**.
 
 He has worked across **multiple software and fintech-related environments**, helping strengthen software security practices from both the engineering side and the security side. His trajectory includes hands-on work in **AppSec, DevSecOps, Security Champion responsibilities, platform and cloud security, and later Product Security-oriented positioning**.
+
+For **more than 7 years**, he has been building in and around Product Security. The narrative behind this project is deliberate: **articles → book / brochure work → community publishing → dedicated Product Security channels → structured Knowledge Base**.
+
+He also served as **one of the lecturers connected to DevOps School in Moscow**, teaching a security-focused part of the program.
 
 Over time, that path evolved from technical implementation into a broader mission:
 
@@ -57,7 +61,12 @@ That includes:
 - [Origins and Timeline](ORIGINS-AND-TIMELINE.md)
 - [Prior Works and Public Trail](PRIOR-WORKS.md)
 - [Domain Map](DOMAIN-MAP.md)
+- [Contributors and Co-Authors](CONTRIBUTORS-AND-COAUTHORS.md)
 - [Links](LINKS.md)
+
+<p align="center">
+  <img src="../assets/footer-mark.png" alt="footer mark" width="320" />
+</p>
 
 ---
 

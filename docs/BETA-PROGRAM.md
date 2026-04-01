@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/page-beta.svg" alt="Beta Program banner" width="100%" />
+  <img src="../assets/page-beta.png" alt="Beta Program banner" width="100%" />
 </p>
 
 # Beta Program
@@ -67,9 +67,14 @@ It is also:
 
 ## Related pages
 
+- [Contributors and Co-Authors](CONTRIBUTORS-AND-COAUTHORS.md)
 - [Origins and Timeline](ORIGINS-AND-TIMELINE.md)
 - [FAQ](FAQ.md)
 - [Links](LINKS.md)
+
+<p align="center">
+  <img src="../assets/footer-mark.png" alt="footer mark" width="320" />
+</p>
 
 ---
 

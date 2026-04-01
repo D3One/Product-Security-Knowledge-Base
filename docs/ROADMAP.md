@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/page-roadmap.svg" alt="Roadmap banner" width="100%" />
+  <img src="../assets/page-roadmap.png" alt="Roadmap banner" width="100%" />
 </p>
 
 # Roadmap
@@ -9,7 +9,8 @@
 - public promo repository;
 - GitBook alpha / pre-release;
 - curated roots already visible through articles, books, community, and supporting repositories;
-- early beta-reader intake.
+- early beta-reader intake;
+- contributor / co-author intake layer for future collaboration.
 
 ## Next milestones
 
@@ -26,7 +27,7 @@ Add more visual explanation layers for architecture, controls, and process patte
 Continue building material for Product Security management, strategy, metrics, and operating models.
 
 ### 5) Reader feedback integration
-Use beta input to refine what deserves more depth, less noise, or better navigation.
+Use beta input and contributor suggestions to refine what deserves more depth, less noise, or better navigation.
 
 ### 6) Public release maturity
 Move from alpha / pre-release presentation into a more stable public release state.
@@ -43,6 +44,11 @@ The long-term direction is to make this project a dependable Product Security re
 - [Domain Map](DOMAIN-MAP.md)
 - [FAQ](FAQ.md)
 - [Beta Program](BETA-PROGRAM.md)
+- [Contributors and Co-Authors](CONTRIBUTORS-AND-COAUTHORS.md)
+
+<p align="center">
+  <img src="../assets/footer-mark.png" alt="footer mark" width="320" />
+</p>
 
 ---
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/page-domains.svg" alt="Domain Map banner" width="100%" />
+  <img src="../assets/page-domains.png" alt="Domain Map banner" width="100%" />
 </p>
 
 # Domain Map
@@ -107,6 +107,10 @@ This work is aimed at:
 - [Roadmap](ROADMAP.md)
 - [FAQ](FAQ.md)
 - [Prior Works](PRIOR-WORKS.md)
+
+<p align="center">
+  <img src="../assets/footer-mark.png" alt="footer mark" width="320" />
+</p>
 
 ---
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/page-faq.svg" alt="FAQ banner" width="100%" />
+  <img src="../assets/page-faq.png" alt="FAQ banner" width="100%" />
 </p>
 
 # FAQ
@@ -24,11 +24,20 @@ it explains the mission, highlights the roots, creates a clean narrative, and he
 ## Is feedback welcome?
 Yes — especially from thoughtful beta readers and practitioners.
 
+## Can contributors be recognized publicly?
+Yes. Strong contributors, editorial helpers, and future authors can be recognized on the project as **contributors / co-authors**.
+See: [Contributors and Co-Authors](CONTRIBUTORS-AND-COAUTHORS.md)
+
 ## Related pages
 
 - [Beta Program](BETA-PROGRAM.md)
+- [Contributors and Co-Authors](CONTRIBUTORS-AND-COAUTHORS.md)
 - [Links](LINKS.md)
 - [About the Author](ABOUT-THE-AUTHOR.md)
+
+<p align="center">
+  <img src="../assets/footer-mark.png" alt="footer mark" width="320" />
+</p>
 
 ---
 

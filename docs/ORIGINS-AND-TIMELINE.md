@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/page-origins.svg" alt="Origins and Timeline banner" width="100%" />
+  <img src="../assets/page-origins.png" alt="Origins and Timeline banner" width="100%" />
 </p>
 
 # Origins and Timeline
@@ -80,6 +80,10 @@ That pattern is the real foundation of the Product Security Knowledge Base.
 - [Prior Works and Public Trail](PRIOR-WORKS.md)
 - [About the Author](ABOUT-THE-AUTHOR.md)
 - [Roadmap](ROADMAP.md)
+
+<p align="center">
+  <img src="../assets/footer-mark.png" alt="footer mark" width="320" />
+</p>
 
 ---
 
