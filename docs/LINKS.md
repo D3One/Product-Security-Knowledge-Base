@@ -34,6 +34,13 @@
 
 - SlimWiki: <https://slimwiki.com/ivanpiskunov/ivanpiskunov/ivan-piskunov-28m8m4x2c7-4fbedzamepy7>
 
+
+## Internal curated pages
+
+- Ecosystem projects: [ECOSYSTEM-PROJECTS.md](ECOSYSTEM-PROJECTS.md)
+- Voices to follow: [VOICES-TO-FOLLOW.md](VOICES-TO-FOLLOW.md)
+- Reading list 2026: [READING-LIST-2026.md](READING-LIST-2026.md)
+
 ## Community and collaboration
 
 - Beta intake form: <https://forms.gle/GXSK8aDogTQ46Kgv6>
